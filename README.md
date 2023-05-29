@@ -31,7 +31,6 @@
 
 
 ## Шаблон наполнения .env
-
 # указываем, с какой БД работаем
 DB_ENGINE=django.db.backends.postgresql
 # имя базы данных
