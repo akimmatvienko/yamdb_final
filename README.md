@@ -56,6 +56,7 @@ SECRET_KEY=
 Для запуска проекта в контейнерах используем **docker-compose** : ```docker-compose up -d --build```, находясь в директории (infra) с ```docker-compose.yaml```
 
 
+
 После сборки контейнеров выполяем:
 ```bash
 # Выполняем миграции
